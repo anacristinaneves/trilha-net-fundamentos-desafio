@@ -44,7 +44,7 @@ while (exibirMenu)
             break;
 
         case "4":
-            exibirMenu = !es.ContinuarOuVoltar(); // Se retornar true, encerra; se retornar false, volta ao menu
+            exibirMenu = !es.ContinuarOuVoltar(); 
             break;
 
         default:
